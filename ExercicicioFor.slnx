@@ -1,19 +1,20 @@
 <Solution>
-  <Project Path="ExercicicioFor/Exercicio88.csproj" />
+  <Project Path="ExercicicioFor/Exercicio088.csproj" />
   <Project Path="Exercicio100/Exercicio100.csproj" />
   <Project Path="Exercicio101/Exercicio101.csproj" />
   <Project Path="Exercicio102/Exercicio102.csproj" />
   <Project Path="Exercicio103/Exercicio103.csproj" />
   <Project Path="Exercicio104/Exercicio104.csproj" Id="8e7326f4-68ef-41d4-88eb-2a088ba687a8" />
-  <Project Path="Exercicio89/Exercicio89.csproj" />
-  <Project Path="Exercicio90/Exercicio90.csproj" />
-  <Project Path="Exercicio91/Exercicio91.csproj" />
-  <Project Path="Exercicio93/Exercicio93.csproj" />
-  <Project Path="Exercicio94/Exercicio92.csproj" />
-  <Project Path="Exercicio94B/Exercicio94.csproj" />
-  <Project Path="Exercicio96/Exercicio96.csproj" />
-  <Project Path="Exercicio97/Exercicio97.csproj" />
-  <Project Path="Exercicio98/Exercicio98.csproj" />
-  <Project Path="Exercicio99/Exercicio99.csproj" />
-  <Project Path="Exercico95/Exercico95.csproj" />
+  <Project Path="Exercicio105/Exercicio105.csproj" Id="7eef77b5-ef00-4326-9951-2da9b26cf7e3" />
+  <Project Path="Exercicio89/Exercicio089.csproj" />
+  <Project Path="Exercicio90/Exercicio090.csproj" />
+  <Project Path="Exercicio91/Exercicio091.csproj" />
+  <Project Path="Exercicio93/Exercicio093.csproj" />
+  <Project Path="Exercicio94/Exercicio092.csproj" />
+  <Project Path="Exercicio94B/Exercicio094.csproj" />
+  <Project Path="Exercicio96/Exercicio096.csproj" />
+  <Project Path="Exercicio97/Exercicio097.csproj" />
+  <Project Path="Exercicio98/Exercicio098.csproj" />
+  <Project Path="Exercicio99/Exercicio099.csproj" />
+  <Project Path="Exercico95/Exercico095.csproj" />
 </Solution>

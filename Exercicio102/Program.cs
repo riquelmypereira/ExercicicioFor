@@ -1,4 +1,4 @@
-﻿double totalHotel = 0;
+﻿double totalDoHotel = 0;
 
 for (int i = 1; i <= 30; i++)
 {
@@ -23,11 +23,11 @@ for (int i = 1; i <= 30; i++)
         taxa = 3;
     }
 
-    double totalConta = diarias * (50 + taxa);
+    double total = diarias * (50 + taxa);
 
-    Console.WriteLine($"{nome} - Total: R$ {totalConta}");
+    totalDoHotel += total;
 
-    totalHotel += totalConta;
+    Console.WriteLine($"{nome} pagará R$ {total}");
 }
 
-Console.WriteLine($"Total arrecadado pelo hotel: R$ {totalHotel}");
+Console.WriteLine($"Total arrecadado: R$ {totalDoHotel}");
